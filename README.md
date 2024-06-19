@@ -1,1 +1,1 @@
-# spring-boot-rest-crud-practice
+# java essentials
